@@ -1,5 +1,5 @@
 # Ardbot-node-server
-Node server for [Ardbot]()
+Node server for [Ardbot](https://github.com/malikov/Arduino-angular-socketio-phonegap-app)
 
 ## How to use
 
