@@ -1,0 +1,13 @@
+{
+  "name": "Ardbot node server",
+  "version": "0.0.1",
+  "description": "Node server to test socket calls for the Ardbot app",
+  "author": "Vincent Maliko",
+
+  "devDependencies": {
+  	"express": "*",
+    "couchbase": "*",
+    "socket.io": "*"
+  }
+  
+}
